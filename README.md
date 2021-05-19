@@ -1,4 +1,4 @@
-# Jenkins Pruenas Automatizadas Selenium - Postman
+# Jenkins Pruenas Automatizadas Selenium - Postman - JMeter
 
 ## Pre requisitos para ejecución de Jenkinsfile
 
